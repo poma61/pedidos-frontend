@@ -1,0 +1,7 @@
+===================================================================
+Nos quedamos en el modulo pedidos 
+Esta hecho el backend del modulo pedidos, pero no se isieron las pruebas respectivas, solo funciona muy bien el listado index()
+En el frontend nos quedamos en el modulo pedidos, esta hecha la tabla solo el data-iterator, donde se lista los datos
+solo eso esta hecho muy bien,
+falta formulario e importData y el service Pedidos.js no esta hecho nada , solo el index()
+=================================================================
